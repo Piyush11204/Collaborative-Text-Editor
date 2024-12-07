@@ -4,7 +4,7 @@
 
 A modern, collaborative text editor built with React, Firebase, and ReactQuill. This web application allows users to create, edit, save, and manage documents in real-time with a clean, intuitive interface.
 
-![Project Screenshot](/public/Screenshot%202024-12-07%20224801.png)
+![Project Screenshot](/public/SS1.png)
 
 ## ✨ Features
 
